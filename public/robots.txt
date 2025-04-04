@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://bombstats.com
+
+# Sitemaps
+Sitemap: https://bombstats.com/sitemap.xml

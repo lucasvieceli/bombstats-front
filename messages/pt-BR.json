@@ -1,0 +1,510 @@
+{
+  "home": {
+    "team": {
+      "Team": "Equipe",
+      "site_description": "Este site foi desenvolvido pelo desenvolvedor Lucas Vieceli com a ajuda da comunidade para o jogo Bomb Crypto...",
+      "extension_recommendation": "Para uma experiência ainda melhor, recomendamos instalar nossa extensão BombStats...",
+      "extension_install": "Instale a extensão e aproveite ao máximo o seu tempo no Bomb Crypto!",
+      "donation_prompt": "Para qualquer doação, por favor envie para a seguinte carteira:",
+      "join_discord": "Junte-se ao nosso servidor do Discord",
+      "developer": "Desenvolvedor",
+      "consultant": "Consultora"
+    },
+    "stake": {
+      "amount": "Quantidade",
+      "heroes": "Heros",
+      "average": "Média"
+    },
+    "onlineAccounts": {
+      "title": "Contas Online",
+      "subtitle": "Algumas das contas online no momento"
+    },
+    "lastCommunityVideo": {
+      "title": "Último Vídeo da Comunidade",
+      "subtitle": "Assista ao último vídeo da comunidade"
+    },
+    "changeLogs": {
+      "announcements": "Anúncios",
+      "08_21_2024": {
+        "title": "Nova Página de Vídeos da Comunidade",
+        "content_1": "Estamos empolgados em anunciar o lançamento de uma nova página dedicada a mostrar vídeos criados por nossos incríveis membros da comunidade.",
+        "content_2": "Nesta página, você pode explorar uma variedade de conteúdos, desde tutoriais até destaques de gameplay, todos contribuídos por nossos usuários apaixonados.",
+        "link": "Confira os vídeos da comunidade"
+      },
+      "10_08_2024": {
+        "title": "Nova Funcionalidade: Simulador de Investimento",
+        "content_1": "Adicionamos uma nova funcionalidade chamada Simulador de Investimento.",
+        "content_2": "Agora você pode informar a quantidade e raridade de heróis, definir o mínimo de stake e o sistema irá calcular os heróis e casas que você precisará comprar, onde comprá-los e todos os custos associados, inclusive em dólares.",
+        "link": "Acesse o Simulador de Investimento"
+      },
+      "08_06_2024_1": {
+        "title": "Nova Tela de Stake Global por Raridade",
+        "content_1": "Foi adicionada uma nova tela de Stake Global de heroes por raridade das redes BSC e Polygon.",
+        "link": "Acesse a nova tela aqui"
+      },
+      "08_06_2024": {
+        "title": "Explore as Novas Listagens de Houses",
+        "content_1": "Estamos entusiasmados em anunciar que agora você pode explorar as houses disponíveis para venda diretamente na OpenSea e no Market.",
+        "link": "Acesse a lista completa aqui"
+      },
+      "08_05_2024": {
+        "title": "Novo Suporte de Idioma",
+        "content_1": "Estamos empolgados em anunciar que nosso site agora está disponível em dois idiomas: Inglês e Português!"
+      },
+      "07_30_2024": {
+        "title": "Nova Funcionalidade: Melhor Custo para Quartz",
+        "description": "30/07/2024 14:34",
+        "content_1": "Adicionamos uma nova funcionalidade que mostra as melhores opções de custo-benefício para adquirir Quartz.",
+        "content_2": "Agora você pode comparar se é melhor comprar Quartz com Bcoin ou Sens, comprar heróis no mercado para converter em Quartz, ou comprar heróis no OpenSea.",
+        "content_3": "A tela exibe o melhor custo-benefício e o preço para cada raridade.",
+        "content_4": "Visite a página Melhor Custo para Quartz para explorar e fazer a melhor escolha!"
+      },
+      "07_29_2024": {
+        "title": "Nova Atualização",
+        "content_1": "Estamos entusiasmados em anunciar várias novas funcionalidades e melhorias!",
+        "content_2": "Adicionado um novo indicador nos cards de heróis mostrando se um herói é Herói S. Se o herói for um S, um ícone 'S' será exibido sobre a imagem do herói.",
+        "content_3": "Na página de listagem de heróis, adicionamos um filtro para escolher entre Heróis S e Heróis Legado.",
+        "content_4": "Na página inicial, adicionamos um novo card exibindo algumas das contas que estão atualmente online."
+      },
+      "07_28_2024": {
+        "title": "Nova Funcionalidade: Ranking Global de Wallets de Staking",
+        "description": "28/07/2024 10:00",
+        "content_1": "Estamos entusiasmados em introduzir uma nova funcionalidade: Ranking Global de Carteiras de Staking!",
+        "content_2": "Este novo sistema de ranking agrega os valores de staking nas redes BSC e Polygon em um único leaderboard abrangente.",
+        "content_3": "Agora, você pode facilmente comparar stakes de wallet em uma escala global e ver como as carteiras se comparam entre si em diferentes redes.",
+        "content_4": "Confira a nova página Ranking Global de Wallsts de Staking para ver onde sua carteira se classifica."
+      },
+      "07_26_2024": {
+        "title": "Nova Atualização",
+        "description": "26/07/2024 13:00",
+        "content_1": "Estamos animados em anunciar uma nova funcionalidade: a Lista de Heróis de Varejo!",
+        "content_2": "Agora você pode explorar uma lista abrangente de heróis disponíveis tanto no Market quanto no OpenSea.",
+        "content_3": "A nova Lista de Heróis para Venda permite que você filtre heróis com base nos seguintes critérios:",
+        "content_4": "Quantidade de staking (Sens e Bcoin), Raridade, Marketplace (Market e OpenSea), Habilidades, Estatísticas.",
+        "content_5": "Melhoramos o design visual do menu à esquerda do site, agrupando menus relacionados para melhor navegação e uma aparência mais limpa.",
+        "content_6": "Aprimoramos a visualização de itens na tela de Varejo em Tempo Real.",
+        "content_7": "Agora, clicar em um herói ou casa abre os detalhes em uma nova aba para facilitar a navegação."
+      },
+      "07_24_2024": {
+        "title": "Nova Atualização",
+        "description": "24/07/2024 07:00",
+        "content_1": "Adicionada página de detalhes da casa.",
+        "content_2": "Melhoramos o layout dos rankings de staking e sens na tela de carteiras."
+      },
+      "07_23_2024": {
+        "title": "Nova Atualização",
+        "description": "23/07/2024 13:47",
+        "content_1": "Adicionamos um sistema de notificações na página de Varejo em Tempo Real, disponível atualmente para usuários do Chrome.",
+        "content_2": "Você receberá notificações sobre heróis e casas listados para venda, mesmo quando o site estiver fechado.",
+        "content_3": "Estamos trabalhando para adicionar suporte para outros navegadores em breve."
+      }
+    },
+    "extension": {
+      "Extension": "Extensão",
+      "Installed": "Instalados",
+      "Install the Chrome extension": "Instale a extensão para Chrome",
+      "Install the BombStats extension for Chrome to get real-time reports": "Instale a extensão BombStats para Chrome para obter relatórios em tempo real"
+    }
+  },
+  "menu": {
+    "home": "Início",
+    "wallet": "Wallet",
+    "house": "House",
+    "hero": "Hero",
+    "search_hero": "Pesquisar Hero",
+    "search_wallet": "Pesquisar Wallet",
+    "investiment_simulator": "Simulador de Investimento",
+    "best_cost_for_hero": "Melhor Custo para Hero",
+    "ranking": "Ranking",
+    "stake": "Stake",
+    "global_stake": "Global Stake",
+    "stake_wallet": "Stake Wallet",
+    "global_stake_wallet": "Ranking Global de wallet de Staking",
+    "claim": "Claim",
+    "retail": "Mercado",
+    "real_time": "Tempo Real",
+    "heroes_list": "Lista de heros",
+    "houses_list": "Lista de houses",
+    "communityVideos": "Vídeos da Comunidade"
+  },
+  "searchWallet": {
+    "title": "Pesquisar Wallet",
+    "description": "Pesquisar detalhes da wallet",
+    "heading": "Pesquisar Wallet",
+    "instruction": "Por favor, insira o endereço da wallet no topo para pesquisar.",
+    "detail": {
+      "title": "wallet {wallet}",
+      "description": "Detalhes da wallet {wallet}",
+      "internalError": "Erro Interno",
+      "retryMessage": "Por favor, tente novamente",
+      "wallet": "Wallet",
+      "chromeExtensionTooltip": "Esta wallet usa a extensão do Chrome",
+      "online": "ONLINE",
+      "offline": "OFFLINE",
+      "stats": "Estatísticas",
+      "heroes": "Heros",
+      "houses": "Houses",
+      "heroesStake": "Heros com Stake",
+      "bcoin": "Bcoin",
+      "sen": "Sen",
+      "stakeBcoin": "Stake Bcoin",
+      "stakeSens": "Stake Sens",
+      "rankingStake": "Ranking de Stake",
+      "rankingGlobalStake": "Ranking Global de Stake",
+      "rankingClaim": "Ranking de Claim",
+      "walletNotFound": "Wallet não encontrada",
+      "checkWalletAddress": "Verifique o endereço da wallet e tente novamente",
+      "stakeHistory": {
+        "title": "Histórico de Stake",
+        "lastStakes": "últimos 20 stakes",
+        "noStakeHistory": "Nenhum histórico de stake",
+        "withdrew": "Retirou stake",
+        "staked": "Colocou stake",
+        "hero": "hero"
+      },
+      "averageFarm": {
+        "average": "Média",
+        "total": "Total",
+        "noAverageFarmData": "Nenhum dado de farm médio",
+        "alert": "Esta funcionalidade foi desativada devido a um problema no cálculo do farm. Estamos aguardando o suporte do Bomb Crypto",
+        "map": "Mapa",
+        "averageFarmPerHour": "Média de farm por hora"
+      },
+      "informationModal": {
+        "title": "Informações sobre farm",
+        "description": "O sistema recupera a data mais recente de farm e coleta dados das últimas 24 horas para calcular a média por hora.",
+        "startDate": "Data de início",
+        "endDate": "Data de término",
+        "totalHours": "Total de horas",
+        "totalSeconds": "Total de segundos"
+      },
+      "currentMap": {
+        "clickToSee": "Clique aqui para ver a farm em tempo real",
+        "loading": "Carregando...",
+        "noMapData": "Sem dados do mapa",
+        "blocks": "Blocos",
+        "life": "Vida",
+        "currentMap": "Mapa atual"
+      },
+      "currentReward": {
+        "clickToSee": "Clique aqui para ver a farm em tempo real",
+        "loading": "Carregando...",
+        "currentRewards": "Recompensas atuais"
+      },
+      "realTimeFarm": {
+        "clickToSee": "Clique aqui para ver a farm em tempo real",
+        "loading": "Carregando...",
+        "noData": "Sem dados de farm em tempo real",
+        "resetMapTitle": "Mapa",
+        "resetMapDescription": "Mapa reiniciado",
+        "cageTitle": "Jaula",
+        "cageDescription": "Recebeu jaula",
+        "received": "Recebido",
+        "realTimeFarm": "Farm em tempo real"
+      },
+      "housesSection": {
+        "title": "Houses"
+      },
+      "heroesSection": {
+        "title": "Heros"
+      }
+    }
+  },
+  "searchHouse": {
+    "title": "Pesquisar house",
+    "description": "Pesquisar detalhes da house",
+    "searchTitle": "Pesquisar House",
+    "searchDescription": "Por favor, insira o ID da house no topo para pesquisar."
+  },
+  "houseDetail": {
+    "title": "Casa {id}",
+    "description": "Detalhes da house {id}",
+    "walletTitle": "Wallet",
+    "contractTitle": "Contrato",
+    "notFoundTitle": "House não encontrada",
+    "notFoundDescription": "Verifique o ID da house e tente novamente",
+    "stats": {
+      "title": "Estatísticas",
+      "size": "Tamanho",
+      "charge": "Carga",
+      "capacity": "Capacidade"
+    }
+  },
+  "searchHero": {
+    "title": "Pesquisar hero",
+    "description": "Pesquisar detalhes do hero",
+    "searchTitle": "Pesquisar Hero",
+    "searchDescription": "Por favor, insira o ID do hero no topo para pesquisar."
+  },
+  "heroDetail": {
+    "title": "Hero {id}",
+    "description": "Detalhes do Hero {id}",
+    "walletTitle": "Wallet",
+    "contractTitle": "Contrato",
+    "notFoundTitle": "Hero não encontrado",
+    "notFoundDescription": "Verifique o ID do Hero e tente novamente",
+    "burned": "Queimado",
+    "level": "Nível {level}",
+    "stakeTitle": "Stake",
+    "rankingStakeTitle": "Ranking stake",
+    "stakeSensTitle": "Stake Sens",
+    "rankingStakeSensTitle": "Ranking stake sens",
+    "stats": {
+      "title": "Estatísticas"
+    },
+    "skills": {
+      "title": "Habilidades"
+    }
+  },
+  "bestCostQuartz": {
+    "title": "Melhor Custo de Quartz",
+    "description": "Encontre o melhor custo para quartz no universo BombStats.",
+    "internalError": "Erro interno. Por favor, tente novamente mais tarde.",
+    "theBest": "O melhor",
+    "method": "Método",
+    "rarity": "Raridade",
+    "pricePer5Quartz": "Preço por 5 quartz",
+    "heroId": "ID do Hero",
+    "rarityTitle": "Raridade",
+    "cardRarity": {
+      "quantity": "Quantidade",
+      "buyQuartzBcoin": "Comprar quartz em Bcoin",
+      "buyQuartzSens": "Comprar quartz em Sens",
+      "buyOnMarket": "Comprar no Mercado",
+      "priceForFiveQuartz": "Preço por 5 quartz",
+      "buyOnOpenSea": "Comprar no OpenSea"
+    }
+  },
+  "rankingStakeHero": {
+    "rankingStake": "Ranking de Stake {rarity}",
+    "invalidRarity": "Raridade inválida",
+    "invalidToken": "Token inválido",
+    "fetchError": "Erro ao buscar os dados. Por favor, tente novamente.",
+    "note": "Nota",
+    "rankingUpdateNote": "O ranking é atualizado a cada hora para garantir as informações mais precisas e atualizadas.",
+    "amountStake": "Quantia em stake",
+    "heros": "Heros",
+    "biggestStake": "Maior stake",
+    "averageStake": "Stake médio",
+    "cardItem": {
+      "amount": "Quantidade",
+      "averagePerDay": "Média por dia"
+    }
+  },
+  "rankingStakeWallet": {
+    "rankingStakeWalletTitle": "Ranking de Stake Wallet",
+    "rankingStakeWalletDescription": "Ranking de Stake Wallet",
+    "internalError": "Erro Interno",
+    "topStakingWallets": "Top 50 Wallets de Staking {network}",
+    "note": "Nota",
+    "rankingUpdateNote": "O ranking é atualizado a cada hora para garantir as informações mais precisas e atualizadas.",
+    "amountStake": "Quantia em stake",
+    "wallets": "Wallets",
+    "biggestStake": "Maior stake",
+    "averageStake": "Stake médio",
+    "cardItem": {
+      "stakeBcoin": "Stake Bcoin",
+      "stakeSens": "Stake Sens"
+    }
+  },
+  "rankingGlobalStakeWallet": {
+    "globalStakeRankingTitle": "Ranking Global de Stake por Wallet",
+    "globalStakeRankingDescription": "Ranking global de stake por carteira",
+    "internalError": "Erro Interno",
+    "topStakingWallets": "Top 50 Wallets de Staking nas Redes BSC e Polygon",
+    "note": "Nota",
+    "rankingUpdateNote": "O ranking é atualizado a cada hora para garantir as informações mais precisas e atualizadas.",
+    "amountStake": "Quantia em stake",
+    "wallets": "Wallets",
+    "biggestStake": "Maior stake",
+    "averageStake": "Stake médio",
+    "cardItem": {
+      "stakeBcoin": "Stake Bcoin",
+      "stakeSens": "Stake Sens"
+    }
+  },
+  "rankingClaim": {
+    "topWalletsTitle": "Top Wallets Que Retiraram Bcoin na Última Semana",
+    "topWalletsDescription": "Top wallets que mais retiraram Bcoin na última semana.",
+    "topWalletsHeader": "Top 50 wallets que mais retiraram Bcoin na última semana",
+    "note": "Nota",
+    "rankingUpdateNote": "O ranking é atualizado a cada hora para garantir as informações mais precisas e atualizadas.",
+    "amount": "Quantia",
+    "averagePerDay": "Média por dia",
+    "totalWallets": "Total de wallets",
+    "cardItem": {
+      "amount": "Quantia",
+      "averagePerDay": "Média por dia"
+    }
+  },
+  "realTimeRetail": {
+    "title": "Mercado em Tempo Real",
+    "description": "Heróis e casas em tempo real do OpenSea e Mercado",
+    "invalidType": "Tipo inválido",
+    "heroes": "Heros",
+    "connected": "Conectado",
+    "connecting": "Conectando",
+    "disconnected": "Desconectado",
+    "notifications": {
+      "serviceWorkerNotRegistered": "O Service Worker não está registrado. Por favor, tente novamente mais tarde.",
+      "testNotificationAlert": "Se você não receber uma notificação de teste, verifique as configurações do navegador para permitir notificações.",
+      "allowNotifications": "Você precisa permitir notificações para se inscrever",
+      "notifications": "Notificações"
+    },
+    "houses": {
+      "at": "em",
+      "monitoringHouseActivities": "Monitorando atividades da house, aguardando novos eventos..."
+    },
+    "heroesComponent": {
+      "at": "em",
+      "monitoringHeroActivities": "Monitorando atividades dos heros, aguardando novos eventos..."
+    },
+    "header": {
+      "selectRarity": "Selecionar raridade",
+      "selectNft": "Selecionar NFT",
+      "selectType": "Selecionar tipo",
+      "sold": "Vendido",
+      "listed": "Listado"
+    },
+    "cardItem": {
+      "amount": "Quantia",
+      "averagePerDay": "Média por dia"
+    }
+  },
+  "market": {
+    "market": "Mercado",
+    "listOfHeroesAndHouses": "Lista de heros e houses do OpenSea e Mercado",
+    "houses": {
+      "selectOneFilter": "Por favor, selecione pelo menos um filtro",
+      "fetchingError": "Ocorreu um erro ao buscar as houses",
+      "noHousesFound": "Nenhuma house encontrado",
+      "houses": "Houses",
+      "filtersHouseModal": {
+        "filters": "Filtros",
+        "selectRarity": "Selecione a raridade",
+        "selectMarketplace": "Selecione o marketplace",
+        "minimumPrice": "Preço mínimo",
+        "selectTokenFirst": "Selecione um token primeiro",
+        "highPrice": "Maior preço",
+        "lowPrice": "Menor preço",
+        "rarity": "Raridade",
+        "marketPlace": "Marketplace",
+        "orderBy": "Ordenar por"
+      }
+    },
+    "heroes": {
+      "selectOneFilter": "Por favor, selecione pelo menos um filtro",
+      "fetchingError": "Ocorreu um erro ao buscar heros",
+      "noHeroesFound": "Nenhum hero encontrado",
+      "heroes": "Heros",
+      "filtersModal": {
+        "filters": "Filtros",
+        "selectRarity": "Selecione a raridade",
+        "selectAbility": "Selecione a habilidade",
+        "selectMarketplace": "Selecione o marketplace",
+        "greaterThan": "maior que {value}",
+        "selectPower": "Selecione o poder",
+        "selectSpeed": "Selecione a velocidade",
+        "selectStamina": "Selecione a estamina",
+        "minimumPrice": "Preço mínimo",
+        "selectTokenFirst": "Selecione um token primeiro",
+        "minimumStakeBcoin": "Quantidade mínima de stake em Bcoin",
+        "minimumStakeSen": "Quantidade mínima de stake em Sen",
+        "heroS": "Hero S",
+        "heroLegacy": "Hero Legacy",
+        "heroType": "Tipo de Hero",
+        "highPrice": "Maior preço",
+        "lowPrice": "Menor preço",
+        "rarity": "Raridade",
+        "marketPlace": "Marketplace",
+        "highStakeBcoin": "Maior stake em Bcoin",
+        "lowStakeBcoin": "Menor stake em Bcoin",
+        "highStakeSen": "Maior stake em Sen",
+        "lowStakeSen": "Menor stake em Sen",
+        "orderBy": "Ordenar por"
+      }
+    },
+    "filters": "Filtros"
+  },
+  "investmentSimulator": {
+    "filters": "Filtros",
+    "rarity": "Raridade",
+    "quantity": "Quantidade",
+    "stakeBcoin": "Stake Bcoin",
+    "stakeSen": "Stake Sens",
+    "selectHouse": "Selecione house",
+    "addRarity": "Adicionar Raridade",
+    "generate": "Gerar",
+    "generating": "Gerando...",
+    "dollars": "Dólares",
+    "buyOnMarketplace": "Comprar no {marketplaceName}",
+    "stakeBcoinLabel": "{stake} Stake Bcoin",
+    "stakeSenLabel": "{stake} Stake Sens",
+    "alertHeroQuantityZero": "Informe a quantidade de heróis",
+    "alertHeroQuantityExceeds": "A quantidade de heróis não pode ser maior que 15",
+    "none": "Nenhum",
+    "addRarityModal": {
+      "addRarity": "Adicionar uma raridade",
+      "selectRarity": "Selecione a raridade",
+      "quantityHeroes": "Quantidade de Heróis",
+      "minStakeBcoin": "Mínimo de stake em Bcoin",
+      "minStakeSens": "Mínimo de stake em Sens",
+      "add": "Adicionar",
+      "alertNoQuantity": "Informe a quantidade de heróis",
+      "alertRarityAdded": "Raridade já adicionada",
+      "alertNoStake": "Informe pelo menos um valor de stake",
+      "alertFillAllFields": "Preencha todos os campos"
+    }
+  },
+  "communityVideos": {
+    "title": "Vídeos da Comunidade"
+  },
+  "component": {
+    "select": {
+      "all": "Todos"
+    },
+    "selectCollapse": {
+      "all": "Todos"
+    },
+    "house": {
+      "size": "Tamanho",
+      "charge": "Carga",
+      "capacity": "Capacidade"
+    },
+    "seeWallet": {
+      "title": "Ver Wallet"
+    },
+    "hero": {
+      "seeWallet": "Ver wallet",
+      "power": "Força",
+      "speed": "Velocidade",
+      "stamina": "Estamina",
+      "bomb": "Bomba",
+      "range": "Alcance",
+      "shield": "Escudo",
+      "maxShield": "Escudo Máximo",
+      "stake sens": "Stake Sens",
+      "stake bcoin": "Stake Bcoin",
+      "shield reset": "Escudo Resetado",
+      "stake": "Stake",
+      "rarity": {
+        "Common": "Comum",
+        "Rare": "Raro",
+        "Super Rare": "Super Raro",
+        "Epic": "Épico",
+        "Legend": "Lendário",
+        "Super Legend": "Super Lendário"
+      },
+      "abilities": {
+        "ADOnChestExplosion": "+ 02 Dano quando o Baú explode",
+        "ADOnCageExplosion": "+ 05 Dano quando a Prisão explode",
+        "BlockPiercing": "+ Explode através do Bloco",
+        "EnergyShield": "+ 20% de Chance de não perder Mana ao colocar a Bomba",
+        "Battery": "+ 0,5 Vigor/Min enquanto Descansa",
+        "WalkThroughBomb": "Atravessa a Bomba",
+        "WalkThroughBlock": "Atravessa o Bloco"
+      }
+    },
+    "soldNft": { "title": "Vendido" }
+  }
+}

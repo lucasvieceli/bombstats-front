@@ -1,0 +1,41 @@
+import { Stake } from "@/application/entities/stake";
+import { StakeRankingHero } from "@/application/entities/stakeRankingHero";
+import { WalletNetwork } from "@/application/entities/wallet";
+
+export interface Hero {
+  id: string;
+  index: number;
+  rarity: string;
+  raritySimbol: string;
+  rarityIndex: number;
+  level: number;
+  variant: number;
+  skin: number;
+  skinValue: number;
+  stamina: number;
+  speed: number;
+  bombSkin: number;
+  skillCount: number;
+  capacity: number;
+  strength: number;
+  range: number;
+  blockNumber: number;
+  randomizeAbilityCounter: number;
+  numUpgradeShieldLevel: number;
+  numResetShield: number;
+  abilities: string[];
+  abilityHeroS: number[];
+  maxShield: number;
+  stake: number;
+  stakeSen: number;
+  wallet?: string;
+  burned: boolean;
+  network?: WalletNetwork;
+  stakeRankingHero?: StakeRankingHero;
+  stakeSenRankingHero?: StakeRankingHero;
+  stakes?: Stake[];
+  openSeaPrice?: number;
+  marketPrice?: number;
+  marketToken?: string;
+  contractAddress?: string;
+}
