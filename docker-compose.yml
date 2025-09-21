@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  bombstats-front:
+    build: .
+    container_name: bombstats-front
+    ports:
+      - "3003:3003"
+    environment:
+      - NODE_ENV=production
+    networks:
+      - bombstats-network
+
+networks:
+  bombstats-network:
+    external: true
