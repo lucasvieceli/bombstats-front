@@ -15,16 +15,17 @@ const AdBanner = ({
   dataFullWidthResponsive,
   style,
 }: AdBannerTypes) => {
-  useEffect(() => {
-    try {
-      ((window as any).adsbygoogle = (window as any).adsbygoogle || []).push(
-        {}
-      );
-    } catch (error: any) {
-      console.log(error.message);
-    }
-  }, []);
+  // useEffect(() => {
+  //   try {
+  //     ((window as any).adsbygoogle = (window as any).adsbygoogle || []).push(
+  //       {}
+  //     );
+  //   } catch (error: any) {
+  //     console.log(error.message);
+  //   }
+  // }, []);
 
+  return null;
   return (
     <ins
       className="adsbygoogle"

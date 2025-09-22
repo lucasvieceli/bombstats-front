@@ -28,8 +28,8 @@ export default async function RootLayout({
   return (
     <html lang={locale}>
       <head>
-        <meta name="google-adsense-account" content="ca-pub-9314462597630539" />
-        <script
+        {/* <meta name="google-adsense-account" content="ca-pub-9314462597630539" /> */}
+        {/* <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9314462597630539"
         ></script>
@@ -42,16 +42,16 @@ export default async function RootLayout({
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9314462597630539"
           //@ts-ignore
           crossorigin="anonymous"
-        ></script>
+        ></script> */}
 
-        <Script id="google-analytics">
+        {/* <Script id="google-analytics">
           {`
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
               gtag('config', 'G-V0WRP0FG2T');
           `}
-        </Script>
+        </Script> */}
       </head>
 
       <link rel="icon" href="/favicon.ico" sizes="any" />
