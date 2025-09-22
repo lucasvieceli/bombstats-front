@@ -17,14 +17,14 @@ async function CommunityVideos() {
 
   return (
     <main className="w-full flex flex-col gap-6">
-      <div className="flex justify-center">
+      {/* <div className="flex justify-center">
         <AdBanner
           dataAdFormat=""
           dataAdSlot="1113269798"
           dataFullWidthResponsive={false}
           style={{ width: "728px", height: "90px" }}
         />
-      </div>
+      </div> */}
       <div className="flex flex-row w-full items-start gap-4 flex-wrap">
         <Menu />
         <div className="flex flex-row gap-4 flex-1 justify-end">

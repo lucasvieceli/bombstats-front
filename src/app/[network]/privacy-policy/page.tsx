@@ -3,14 +3,14 @@ import AdBanner from "@/components/AdsBanner";
 function PrivacyPolice() {
   return (
     <div className="flex flex-col">
-      <div className="flex justify-center">
+      {/* <div className="flex justify-center">
         <AdBanner
           dataAdFormat=""
           dataAdSlot="1113269798"
           dataFullWidthResponsive={false}
           style={{ width: "728px", height: "90px" }}
         />
-      </div>
+      </div> */}
       <h1 className="text-30 font-bold mb-4">Privacy Policy</h1>
       <p className="text-14 mb-4">Last updated: July 1, 2024</p>
 

@@ -19,14 +19,14 @@ function Content() {
     return (
       <RetailHeroesFiltersContextProvider>
         <main className="flex flex-col w-full gap-6">
-          <div className="flex justify-center">
+          {/* <div className="flex justify-center">
             <AdBanner
               dataAdFormat=""
               dataAdSlot="1113269798"
               dataFullWidthResponsive={false}
               style={{ width: "728px", height: "90px" }}
             />
-          </div>
+          </div> */}
           <HeaderRetail nft={typeString} />
           <div className="flex flex-col gap-6">
             <Heroes />

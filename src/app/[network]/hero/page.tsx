@@ -16,14 +16,14 @@ export default async function SearchHero({ params: { network } }: any) {
 
   return (
     <main className="flex flex-col w-full gap-6">
-      <div className="flex justify-center">
+      {/* <div className="flex justify-center">
         <AdBanner
           dataAdFormat=""
           dataAdSlot="1113269798"
           dataFullWidthResponsive={false}
           style={{ width: "728px", height: "90px" }}
         />
-      </div>
+      </div> */}
       <HeaderHero />
       <div className="flex flex-col text-22 font-bold items-center mt-6">
         <div>{t("searchTitle")}</div>
